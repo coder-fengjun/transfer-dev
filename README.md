@@ -1,5 +1,9 @@
-# Vue 3 + Vite
+### 如何构建一个可选下拉穿梭框
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### UI库组件3种引入方法
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+### 抽离pops，使用hooks思想实现
+
+### 抽离计算属性，让视图只需要关注视图，所有数据来源放入.js文件
+
+### 对组件继续抽离，继续细分组件
